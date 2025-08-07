@@ -1,4 +1,4 @@
-# 🌟 Python Data Analytics Projects Portfolio
+**🌟 Python Data Analytics Projects Portfolio**
 
 Welcome to my collection of beginner-to-intermediate level **Data Analytics projects using Python**. These projects demonstrate skills in **data cleaning**, **exploratory data analysis (EDA)**, and **data visualization** using libraries like `pandas`, `matplotlib`, and `seaborn`.
 
@@ -42,3 +42,4 @@ Welcome to my collection of beginner-to-intermediate level **Data Analytics proj
 3. Install dependencies via:
 ```bash
 pip install pandas matplotlib seaborn
+
